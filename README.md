@@ -1,6 +1,8 @@
 # IHM PROJECT
 Projet IHM : 2020 - 2021 
 
+Google Drive : https://drive.google.com/drive/folders/1rQi8F1IAeu9rcnJU4YYSXLxDDwCS18cf?usp=sharing
+
 3 Février : 
 
     - Présentation / définition du projet
