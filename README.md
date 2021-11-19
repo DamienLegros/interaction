@@ -3,6 +3,8 @@ Projet IHM : 2020 - 2021
 
 Projet d'introduction à l'interaction homme-machine effectué au cours du master 1 ANDROIDE de septembre à décembre 2020 dans le cadre de l'UE IHM.
 
+Les vidéos des prototypes se trouvent sur le Google Drive et le site web.
+
 **Encadrement du projet : Gilles Bailly**
 
 Google Drive : https://drive.google.com/drive/folders/1rQi8F1IAeu9rcnJU4YYSXLxDDwCS18cf?usp=sharing  
