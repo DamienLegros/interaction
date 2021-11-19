@@ -1,8 +1,14 @@
 # IHM PROJECT
 Projet IHM : 2020 - 2021 
 
+Projet d'introduction à l'interaction homme-machine effectué au cours du master 1 ANDROIDE de septembre à décembre 2020 dans le cadre de l'UE IHM.
+
+**Encadrement du projet : Gilles Bailly**
+
 Google Drive : https://drive.google.com/drive/folders/1rQi8F1IAeu9rcnJU4YYSXLxDDwCS18cf?usp=sharing  
 Website      : https://eliasgit2017.github.io/ihm-projet-ourmaps/ 
+
+**Tâches effectuées au cours du projet :**
 
 3 Février : 
 
@@ -30,5 +36,5 @@ Website      : https://eliasgit2017.github.io/ihm-projet-ourmaps/
 3 Mars : 
 
     - Storyboard, paper prototype et video prototype
-    - Vous avez 2h pour créer au moins 4 video prototypes par groupe. Vous trouverez quelques exemples ainsi que des ressources pour vous aider.
+    - Vous avez 2h pour créer au moins 2 video prototypes par groupe. Vous trouverez quelques exemples ainsi que des ressources pour vous aider.
     - Ressources : Video prototyping
