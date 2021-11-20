@@ -1,6 +1,8 @@
 # IHM PROJECT
 Projet IHM : 2020 - 2021 
 
+**Projet en groupe de 5 : Damien Legros, David Pinaud, Elias Bendjaballah, Lydia Aguini et Sarah Kerriche** 
+
 Projet d'introduction à l'interaction homme-machine effectué au cours du master 1 ANDROIDE de septembre à décembre 2020 dans le cadre de l'UE IHM.
 
 Les vidéos des prototypes se trouvent sur le Google Drive et le site web.
